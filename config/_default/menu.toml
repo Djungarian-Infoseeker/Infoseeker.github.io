@@ -7,13 +7,7 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "bilibili"
-name = "Bilibili"
-url = "https://space.bilibili.com/8366216"
 
-[social.params]
-icon = "brand-bilibili"
 
 [[social]]
 identifier = "twitter"
